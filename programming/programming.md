@@ -42,6 +42,7 @@ JavaScript é a linguagem de programação utilizada pelos navegadores para real
 - [ ] *EN/ES* [The Modern JavaScript Tutorial](https://javascript.info/)
 - [ ] *PT* MDN [Primeiros passos com JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting)
 - [ ] *PT* USP [Aprendendo JavaScript](https://repositorio.usp.br/directbitstream/4cd7f9b7-7144-40f4-bfd0-7a1d9a6bd748/nd_72.pdf)
+- [ ] *PT* Khan Academy [Programação de computadores - JavaScript e a web](https://pt.khanacademy.org/computing/computer-programming)
 
 ### **Node.js/npm**
 JavaScript became so common in the web environment that the frontend developers, experts in JS, started creating their own code for backend using JS as well. It's now known as Server-Side JavaScript. The most known and used runtime environment is Node.js.
@@ -93,6 +94,7 @@ Python é uma linguagem de programação legível, próxima do inglês, com uma 
 - [ ] *PT* Python.org [O tutorial do Python](https://docs.python.org/pt-br/3/tutorial/index.html)
 - [ ] *EN* W3Schools [Python Intro](https://www.w3schools.com/python/python_intro.asp)
 - [ ] *EN* Jupyter Notebook[Learning Python 3](https://gist.github.com/kenjyco/69eeb503125035f21a9d)
+- [ ] *EN* Course Udacity [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 
 ### **Java (OOP)**
 Java is the go-to language to learn Object Oriented Programming (OOP). This is a core concept for Software Engineering, and thats why it's crucial to learn it early. Even if you don't use OOP later, the separation of concerns that you learn with Objects, Classes, Instances, will be of great influence in the organization and modularization of your code.
@@ -197,11 +199,42 @@ Expressões Regulares são uma forma de definir padrões contra os quais textos 
 
 ## Level 3
 **Expert Programming**
+Advanced concepts that are project or position related. You'll see these technologies only in bigger applications or larger organizations, which require complex systems to manage their servers and applications.
+
+Conceitos avançados que estão relacionados ao projeto ou à posição. Você verá essas tecnologias apenas em aplicações maiores ou em organizações de grande porte, que exigem sistemas complexos para gerenciar seus servidores e aplicações.
 
 ### **AI assisted Programming**
--
+Artificial Intelligence (AI), especially now with Large Language Models (LLMs), can be a powerful ally or a pain in the ~~butt~~ neck. Learn how to code with AI assistants, what you can ask them, and what you can expect from them. Understand how and when to engage with these tools. Use them wisely.
+
+Inteligência Artificial (IA), especialmente agora com os Modelos de Linguagem de Grande Escala (LLMs), pode ser uma aliada poderosa ou uma dor de cabeça. Aprenda a programar com assistentes de IA, o que você pode pedir a eles e o que pode esperar dessas ferramentas. Entenda como e quando utilizá-las. Use-as com sabedoria.
+
+- *EN* **Martin Fowler [Patterns for Reducing Friction in AI-Assisted Development
+- *EN* Coursera [Jetbrains AI-Assisted Programming](https://www.coursera.org/learn/ai-assisted-programming)
+- *EN* O'Reilly Book [AI-Assisted
+Programming - Tom Taulli](https://www.hkdca.com/wp-content/uploads/2025/06/ai-assisted-programming-oreilly.pdf)
+](https://martinfowler.com/articles/reduce-friction-ai/)**
+  >AI assistants are like junior developers with infinite energy but zero context.
+- *PT* Google [Ferramentas de programação e geração de código com IA](https://cloud.google.com/use-cases/ai-code-generation?hl=pt-BR)
+
+
 ### **Container (Kyma, Docker, K8s)**
--
+"It works on my machine" is just the first step on the long journey to a stable application. The software will then run on a server, a machine. Next, that machine is virtualized. Later, each deployment creates a new Virtual Machine (VM). Eventually, you realize you don't need to virtualize the entire machine—only certain parts of it—and you call this a container. Finally, you need to manage all these containers that are automatically created and destroyed.
+
+"Funciona na minha máquina" é apenas o primeiro passo em uma longa jornada rumo a uma aplicação estável. O software então será executado em um servidor, uma máquina. Depois, essa máquina é virtualizada. Mais tarde, cada implantação cria uma nova Máquina Virtual (VM). Com o tempo, você percebe que não precisa virtualizar a máquina inteira, apenas certas partes dela, e chama isso de container. Por fim, você precisa gerenciar todos esses containers que são criados e destruídos automaticamente.
+
+- [ ] *EN* docker-curriculum [docker for beginners](https://docker-curriculum.com/)
+- [ ] *PT* blog DataCamp [Docker para iniciantes](https://www.datacamp.com/pt/tutorial/docker-tutorial)
+- [ ] *PT* AWS [Qual a diferença entre o Kubernetes e o Docker?](https://aws.amazon.com/pt/compare/the-difference-between-kubernetes-and-docker/)
+- [ ] *EN* Atlassian [Kubernetes vs. Docker](https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker)
+- [ ] *EN* developers.sap [Build an Application in SAP BTP, Kyma Runtime](https://developers.sap.com/mission.cp-kyma-build-app.html)
+
 ### **Continuous Integration and Delivery**
-- [ ] [Exploring DevOps with SAP BTP](https://learning.sap.com/courses/exploring-devops-with-sap-btp/automate-your-application-endpoints-with-sap-job-scheduling-service)
+When you make changes to your code regularly, need to deploy them to the server, test them, and promote them to the next environment, you understand the need to automate this process. This is where Continuous Integration comes in. But before it can go to production, you need some checks. That's where Continuous Delivery complements it.
+
+Quando você faz alterações no seu código regularmente, precisa implantá-las no servidor, testá-las e promovê-las para o próximo ambiente, percebe a necessidade de automatizar esse processo. É aí que entra a Integração Contínua (CI). Mas antes de ir para produção, são necessárias algumas verificações. É nesse ponto que a Entrega Contínua (CD) complementa o processo.
+
+
+- [ ] *PT* RedHat [O que é CI/CD?](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd)
+- [ ] *PT* AWS [O que é integração contínua e entrega/implantação contínuas?](https://docs.aws.amazon.com/pt_br/whitepapers/latest/practicing-continuous-integration-continuous-delivery/what-is-continuous-integration-and-continuous-deliverydeployment.html)
+- [ ] *EN* learning.sap [Exploring DevOps with SAP BTP](https://learning.sap.com/courses/exploring-devops-with-sap-btp/automate-your-application-endpoints-with-sap-job-scheduling-service)
 
