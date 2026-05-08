@@ -15,6 +15,7 @@
 
 ### CAP
 - [CAP](https://moovi.curseduca.pro/m/lessons/sap-cap-1747766278946)
+- Course learning.sap [Develop extensions with CAP following the SAP BTP Developer's Guide](https://learning.sap.com/courses/develop-extensions-with-cap-following-the-sap-btp-developer-s-guide/)
 ### OData
 - [OData](https://moovi.curseduca.pro/m/lessons/gateway-e-odata-1734443760098)
 - [OData - Getting Started](https://www.odata.org/getting-started/)
