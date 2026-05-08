@@ -2,7 +2,7 @@
 
 | [Level 1](#level-1) <br> Nível 1 <br> Fundamentos e conceitos essenciais para iniciar a jornada | [Level 2](#level-2) <br> Nível 2 <br> Especialização e domínio intermediário das tecnologias | [Level 3](#level-3) <br> Nível 3 <br> Conceitos avançados, visão de arquitetura e inovações |
 |----|----|----|
-| [CAP](#cap)| [Profiles (dev, hybrid, prod)](#profiles-dev-hybrid-prod)| [Test: Jest/Mocha](#test-jestmocha) |
+| [CAP](#cap)| [Profiles (dev, hybrid, prod)](#profiles-dev-hybrid-prod)| [CAP Test](#cap-test) |
 | [OData](#odata)| [.http (or Postman)](#http-or-postman)| [Messaging](#messaging) |
 | [SAPUI5 (basic)](#sapui5-basic)| [Fiori Freestyle (SAPUI5)](#fiori-freestyle-sapui5) | [CAP TypeScript](#cap-typescript) |
 | [Fiori Elements Annotations](#fiori-elements-annotations) | [Fiori Launchpad Plugin](#fiori-launchpad-plugin) | |
@@ -167,9 +167,15 @@ Por fim, fixe o site oficial da documentação do SAP Cloud Application Programm
 ## Level 3
 **Advanced CAP Development Tools**
 
-### Test: Jest/Mocha
--
+At this level, some technologies are worth learning because they improve the quality of your software. Others are important because a project or customer requires them. Therefore, there is no single path forward, each (your) case is unique.
+
+**Ferramentas para Desenvolvimento CAP**
+
+Neste nível, algumas tecnologias valem a pena aprender porque melhoram a qualidade do seu software. Outras são importantes porque um projeto ou cliente exige. Portanto, não existe um caminho único cada caso (o seu) é único.
+
+### CAP Test
+- [ ] *EN* capire [Testing with cds.test](https://cap.cloud.sap/docs/node.js/cds-test)
 ### Messaging
--
+- [ ] *EN* capire [Events and Messaging](https://cap.cloud.sap/docs/guides/events/)
 ### CAP TypeScript
--
+- [ ] *EN* capire [Using TypeScript](https://cap.cloud.sap/docs/node.js/typescript)
