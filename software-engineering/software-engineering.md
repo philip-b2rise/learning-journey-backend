@@ -3,11 +3,11 @@
 
 | [Level 1](#level-1) <br> Nível 1 <br> Fundamentos e conceitos essenciais para iniciar a jornada | [Level 2](#level-2) <br> Nível 2 <br> Especialização e domínio intermediário das tecnologias | [Level 3](#level-3) <br> Nível 3 <br> Conceitos avançados, visão de arquitetura e inovações |
 |----|----|----|
-| [MVC](#mvc)| [Design Patterns](#design-patterns)| [Algorithm Complexity]()|
-| [Client-Server](#client-server)| [Separation of Concerns](#separation-of-concerns)| [Microservices]()|
-| [Events](#events)| [Event-Driven Architecture](#event-driven-architecture)| [Observability]()|
-| [APIs](#apis)| [SOLID](#solid) | |
-| [REST and OData](#rest-and-odata)| | |
+| [MVC](#mvc) | [Design Patterns](#design-patterns) | [Algorithm Complexity](#algorithm-complexity) |
+| [Client-Server](#client-server) | [Separation of Concerns](#separation-of-concerns) | [Microservices](#microservices) |
+| [Events](#events) | [Event-Driven Architecture](#event-driven-architecture) | [Observability](#observability) |
+| [APIs](#apis) | [SOLID](#solid) | |
+| [REST and OData](#rest-and-odata) | | |
 
 
 

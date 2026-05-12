@@ -5,7 +5,7 @@
 |----|----|----|
 | [Team communication](#team-communication) | [Outside Team Communication](#outside-team-communication) | [Lessons learned repository](#lessons-learned-repository) |
 | [Continuous feedback](#continuous-feedback) | [Presentation](#presentation)| [Best practices and patterns](#best-practices-and-patterns) |
-| [Agile](#agile) | [Mentoring](#mentoring) | [Legacy technologies learning](#legacy-technologies-learning) |
+| [Agile](#agile) | [Mentoring](#mentoring) | |
 | [English](#english-1) | [English](#english-2) | [English](#english-3) |
 
 ## Level 1
@@ -109,17 +109,29 @@ Improve your English. At this level, you must know how to: watch videos with Eng
 
 ## Level 3
 **Knowledge Share**
+
+A master is made by the apprentice. At this level, you are limited only by yourself: you can only accomplish so much with your own time. So it's time to spread your knowledge and multiply your impact by teaching and delegating. As you may know, it's not easy to pass on the knowledge gained over years. Therefore, learn how to properly transfer your knowledge to your peers and make your work flourish.
+
 **Transferência de Conhecimento**
 
+Um mestre é formado pelo aprendiz. Neste nível, você é limitado apenas por si mesmo: só pode realizar até certo ponto com o seu próprio tempo. Portanto, é hora de espalhar seu conhecimento e multiplicar seu impacto ensinando e delegando. Como você deve saber, não é fácil transmitir o conhecimento adquirido ao longo dos anos. Por isso, aprenda a transferir seu conhecimento corretamente para seus colegas e faça seu trabalho florescer.
+
 ### Lessons learned repository
->Repositório de lições aprendidas por cliente e projeto
--
+Define (or reshape) a repository of lessons learned—a place where you can share knowledge that isn't found in textbooks, tutorials, or courses. Learn how to make it readable and searchable. Include information such as the customer or project where it happened, the technical landscape, and how often it is applicable.
+
+Defina (ou reformule) um repositório de lições aprendidas—um local onde você pode compartilhar conhecimentos que não estão em livros didáticos, tutoriais ou cursos. Aprenda a torná-lo legível e pesquisável. Inclua informações como o cliente ou projeto em que ocorreu, o cenário técnico e com que frequência é aplicável.
+
+- [ ] *EN* [Wiki.js](https://js.wiki/)
+- [ ] *EN* [Github.com](https://github.com/)
+
 ### Best practices and patterns
->Definição de padrões e boas práticas
--
-### Legacy technologies learning
->Aprendizado de "velhas" tecnologias
--
+Learning from the giants can only take you so far. They don't know you or your context, which means that not everything they describe may apply. Your experience brings value, especially those moments that were a great success (or a great failure). Let's look at what you usually do, your "best practices", or some standards you apply in your projects, your "patterns", and see if they make sense and are applicable for the rest of the team.
+
+Aprender com os gigantes só pode te levar até certo ponto. Eles não conhecem você nem o seu contexto, o que significa que nem tudo o que descrevem pode ser aplicado. Sua experiência traz valor, especialmente aqueles momentos de grande sucesso (ou grande fracasso). Vamos analisar o que você costuma fazer, suas "melhores práticas", ou alguns padrões que você aplica em seus projetos, seus "padrões", e ver se fazem sentido e são aplicáveis para o restante do time.
+
+- [ ] *EN* Blog kluster.ai [10 Essential Software Development Best Practices for 2025](https://www.kluster.ai/blog/software-development-best-practices)
+- [ ] *EN* Blog The Codest [Top Practices for Software Development Teams](https://thecodest.co/en/blog/top-practices-for-software-development-teams/)
+
 ### **English 3**
 Master your English. At this level, you must know how to: talk to stakeholders and coworkers around the globe; understand Indian English, French English, German English, etc.; write reports and technical specifications; and use your native language as the secondary one.
 
