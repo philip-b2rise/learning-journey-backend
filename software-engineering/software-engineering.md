@@ -70,6 +70,7 @@ No mundo SAP, o Open Data Protocol (OData) é o protocolo padrão para comunica�
 - [ ] *EN* odata.org [OData - Getting Started](https://www.odata.org/getting-started/)
 - [ ] **Northwind OData example service [Northwind](https://services.odata.org/Northwind/Northwind.svc/)**
 - [ ] *PT* StackOverflow [O que é e para que serve OData](https://pt.stackoverflow.com/questions/284722/o-que-%C3%A9-e-para-que-serve-odata)
+- [ ] *PT* Sobre - [Filtros em APIS ](https://medium.com/@coderik1996/filtros-em-apis-rest-n%C3%A3o-s%C3%A3o-s%C3%B3-query-params-b7d8046d5988)
 
 ## Level 2
 **Software engineering patterns**
