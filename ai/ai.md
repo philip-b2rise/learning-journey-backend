@@ -64,7 +64,7 @@ Aprenda a usar o Assistente de IA como seu par de programação. Peça para ele 
 - [ ] *EN* Blog Medium [Effectively Using an AI Coding Assistant](https://medium.com/@csw11235/effectively-using-an-ai-coding-assistant-1e79ae2c6f6e)
 - [ ] *EN* Blog Medium [I Tested Every AI Coding Assistant: Here’s What Actually Works](https://blog.stackademic.com/i-tested-every-ai-coding-assistant-heres-what-actually-works-a87b50c78852)
 - [ ] *EN* Blog Frontend Mentor [AI coding assistants for beginners: How to learn without losing your skills](https://www.frontendmentor.io/articles/ai-coding-assistants-for-beginners)
-- [ ] *EN* Guide nx.dev [A Practical Guide on Effective AI Use - AI as Your Peer Programmer](https://nx.dev/blog/practical-guide-effective-ai-coding)
+- [ ] ***EN* Guide nx.dev [A Practical Guide on Effective AI Use - AI as Your Peer Programmer](https://nx.dev/blog/practical-guide-effective-ai-coding)**
 - [ ] *PT* Blog cronapp.io [Como usar a IA como assistente em ambiente de desenvolvimento?](https://blog.cronapp.io/ia-como-assistente-ambiente-de-desenvolvimento/)
 
 ### Automation with AI
@@ -82,17 +82,35 @@ Agentes de IA são como robôs que utilizam LLMs para se comunicar como humanos 
 - [ ] *EN* Guide Claude [What are Skills?](https://support.claude.com/en/articles/12512176-what-are-skills)
 - [ ] *EN* Blog Medium [AI Agent Skills: Driving Scale & Efficiency](https://blog.devgenius.io/ai-agent-skills-driving-scale-efficiency-73841e36060c)
 - [ ] *EN* Guide Microsoft [Agent Skills](https://learn.microsoft.com/en-us/agent-framework/agents/skills?pivots=programming-language-python)
+- [ ] *PT* Produto SAP [Joule Agents](https://www.sap.com/brazil/products/artificial-intelligence/ai-agents.html)
 
 ## Level 3
 **Pro coding with AI**
+
+At this level, you're ready to use AI to its fullest extent. Learn how to set up your tools, how to improve them, and reach their limits.
+
+Neste nível, você está pronto para usar a IA em todo o seu potencial. Aprenda a configurar suas ferramentas, como aprimorá-las e alcançar seus limites.
+
 ### MCP
->Model Context Protocol
--
+Model Control Protocols (MCPs) are plug-and-play tools that AI can use to fulfill requests. Learn how to connect your AI to these tools and boost its efficiency.
+
+Protocolos de Controle de Modelo (MCPs) são ferramentas plug-and-play que a IA pode usar para atender solicitações. Aprenda como conectar sua IA a essas ferramentas e aumentar sua eficiência.
+
+- [ ] *EN* Guide modelcontextprotocol.io [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [ ] *EN* Blog Anthropic [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
+- [ ] *PT* Guide Google [O que é o MCP e como ele funciona?](https://cloud.google.com/discover/what-is-model-context-protocol?hl=pt-BR)
+- [ ] *EN* Tutorial VSCode [Add and manage MCP servers in VS Code](https://code.visualstudio.com/docs/copilot/customization/mcp-servers)
+
 ### AI powered IDEs
->IDEs com agentes de IA
--
+Instead of copy-pasting your code in the web browser, or AI client, learn how to use the embedded AI available on your IDE. Make it read the open files, or even your entire project, so that when it knows the context of your question.
 
+- [ ] *EN* Guide VSCode [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
+- [ ] *EN* Product [Cursor](https://cursor.com/)
+- [ ] *EN* Product [JetBrains](https://www.jetbrains.com/ai-ides/)
+- [ ] *EN* Product [Tabnine](https://www.tabnine.com/)
+- [ ] *PT* Blog [Otimize o desenvolvimento de software com o Amazon CodeWhisperer](https://aws.amazon.com/pt/blogs/aws-brasil/otimize-o-desenvolvimento-de-software-com-o-amazon-codewhisperer/)
 
-
-Planejamento de tasks com IA
-Debug com IA
+----
+>TODO: list
+>- Planejamento de tasks com IA
+>- Debug com IA
