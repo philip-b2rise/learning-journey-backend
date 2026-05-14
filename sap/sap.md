@@ -73,7 +73,7 @@ Cloud Foundry is the main runtime of SAP BTP. It enables quick and efficient dep
 
 Cloud Foundry é o principal runtime do SAP BTP. Ele permite a implantação rápida e eficiente de aplicações, gerenciando facilmente inicialização, reinicialização, desligamento, escalabilidade e integração com os serviços da plataforma.
 
-- [ ] *EN* cloudfoundr.oth [Cloud Foundry Introduction](https://tutorials.cloudfoundry.org/cf4devs/introduction/)
+- [ ] *EN* cloudfoundr.org [Cloud Foundry Introduction](https://tutorials.cloudfoundry.org/cf4devs/introduction/)
 - [ ] *EN* learning.sap [Developing Applications for SAP BTP, Cloud Foundry runtime](https://learning.sap.com/courses/developing-applications-for-sap-btp-cloud-foundry-runtime)
 - [ ] *PT* Red Hat [O que é o Cloud Foundry?](https://www.redhat.com/pt-br/topics/application-modernization/what-is-cloud-foundry)
 
