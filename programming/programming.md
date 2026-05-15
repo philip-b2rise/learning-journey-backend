@@ -26,10 +26,10 @@ It is essential to understand how data is displayed in our browser. Generally, e
 
 É essencial entender como os dados são exibidos em nosso navegador. Geralmente, toda Interface Gráfica do Usuário (GUI) atualmente é exibida usando o formato HTML/CSS. Ao aprender isso, você usará seu navegador como uma ferramenta poderosa no desenvolvimento.
 
-- [ ] *EN* W3Schools [HTML Intro](https://www.w3schools.com/html/html_intro.asp)
-- [ ] *EN* W3Schools [CSS Intro](https://www.w3schools.com/css/css_intro.asp)
-- [ ] *EN* W3Schools [HTML+CSS](https://www.w3schools.com/htmlcss/default.asp)
-- [ ] *PT* MDN [Iniciando com HTML](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
+- [X] *EN* W3Schools [HTML Intro](https://www.w3schools.com/html/html_intro.asp)
+- [X] *EN* W3Schools [CSS Intro](https://www.w3schools.com/css/css_intro.asp)
+- [X] *EN* W3Schools [HTML+CSS](https://www.w3schools.com/htmlcss/default.asp)
+- [X] *PT* MDN [Iniciando com HTML](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
 - [ ] *PT* IFSC [Apostila de programação para web: HTML e CSS](https://docente.ifsc.edu.br/lara.popov/web1/apostila__html_css.pdf)
 
 ### **JavaScript**
@@ -37,7 +37,7 @@ JavaScript is the programming language used by the browsers to perform operation
 
 JavaScript é a linguagem de programação utilizada pelos navegadores para realizar operações na página web e para se comunicar com o servidor (backend). Portanto, se você deseja programar, é necessário ter algum entendimento de JS.
 
-- [ ] *EN* W3Schools [JS Intro](https://www.w3schools.com/js/js_intro.asp)
+- [X] *EN* W3Schools [JS Intro](https://www.w3schools.com/js/js_intro.asp)
 - [ ] *EN* W3Schools [AJAX Intro](https://www.w3schools.com/js/js_ajax_intro.asp)
 - [ ] *EN/ES* [The Modern JavaScript Tutorial](https://javascript.info/)
 - [ ] *PT* MDN [Primeiros passos com JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting)

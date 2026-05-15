@@ -24,7 +24,7 @@ Get your hands dirty with courses and tutorials to learn how to build a Cloud Ap
 
 Ponha a mão na massa com cursos e tutoriais para aprender como construir uma aplicação CAP.
 
-- [ ] *PT* Course Moovi [SAP CAP](https://moovi.curseduca.pro/m/lessons/sap-cap-1747766278946)
+- [X] *PT* Course Moovi [SAP CAP](https://moovi.curseduca.pro/m/lessons/sap-cap-1747766278946)
 - [ ] *EN* Course learning.sap [Introduction to SAP Cloud Application Programming Model](https://learning.sap.com/courses/introduction-to-sap-cloud-application-programming-model)
 - [ ] *EN* Course learning.sap [Develop extensions with CAP following the SAP BTP Developer's Guide](https://learning.sap.com/courses/develop-extensions-with-cap-following-the-sap-btp-developer-s-guide/)
 - [ ] *EN* Hands-on capire [Getting Started](https://cap.cloud.sap/docs/get-started/#initial-setup)
